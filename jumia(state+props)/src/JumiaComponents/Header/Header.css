@@ -1,0 +1,49 @@
+.header{
+   
+    width: 100%;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 1px 0px 3px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 0px 3px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 0px 3px 0px rgba(0,0,0,0.75);
+}
+.logo{
+    width : 20%;
+}
+
+.searchBox{
+    width: 60%;
+}
+
+.searchBox input{
+font-size: 12px;
+    width:380px;
+}
+
+.searchBox input ,.searchBox button {
+    text-transform: uppercase;
+    margin: 2px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.searchBox button {
+    background-color: orangered;
+    color: white;
+    border:1px solid orangered;
+    font-weight: bold;
+}
+
+.navigation{
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+

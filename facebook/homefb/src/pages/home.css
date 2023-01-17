@@ -1,0 +1,16 @@
+.home_content {
+  background-color: rgba(192, 192, 192, 0.15);
+  display: flex;
+}
+
+.home_main_content {
+  flex-wrap: wrap;
+  width: 50%;
+
+  
+}
+.stories {
+  
+  display: flex;
+  overflow-x: scroll;
+}

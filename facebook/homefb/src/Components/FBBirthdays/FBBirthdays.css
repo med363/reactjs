@@ -1,0 +1,11 @@
+.birthdays {
+  margin: 20px 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+.birthdays .item {
+  
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+div.footer {
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+div.footer a {
+  margin: 4px 10px;
+  color: rgb(132, 131, 131);
+  font-size: 12px;
+}

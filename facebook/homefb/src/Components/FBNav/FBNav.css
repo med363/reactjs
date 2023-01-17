@@ -1,0 +1,53 @@
+.fb_nav {
+  width: 100%;
+  padding: 15px;
+  display: flex;
+
+  align-items: center;
+  height: 70px;
+}
+.fb_nav div {
+  padding: 20px;
+  display: flex;
+
+  align-items: center;
+}
+
+.fb_nav .right_box {
+  width: 25%;
+}
+
+.fb_nav .center_box {
+  width: 50%;
+}
+
+.fb_nav .left_box {
+  width: 25%;
+}
+.fb_input_search {
+  background-image: url("https://img.icons8.com/material-outlined/24/000000/search--v1.png");
+  background-repeat: no-repeat;
+  background-position: 10px;
+  background-size: 9%;
+  padding: 15px 35px;
+  margin-left: 10px;
+  border-radius: 10px;
+  background-color: rgba(192, 192, 192, 0.15);
+  border: none;
+}
+
+.nav_item {
+  margin: 0 45px;
+  color: gray;
+  font-size: 25px;
+}
+
+.item_box {
+  border-bottom: 4px solid white;
+}
+
+.item_box:hover {
+  color: #1877f2;
+  border-bottom: 4px solid #1877f2;
+  cursor: pointer;
+}

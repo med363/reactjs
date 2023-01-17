@@ -1,0 +1,29 @@
+.coment {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.coment_image {
+  border-radius: 50%;
+  overflow: hidden;
+  width: 40px;
+  height: 40px;
+}
+.coment_image img {
+  width: 100%;
+}
+
+.coment_input {
+  width: calc(100% - 60px);
+}
+
+.coment_input input {
+  border: 1px solid silver;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%;
+}

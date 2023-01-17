@@ -1,0 +1,12 @@
+.Fb_input {
+  width: 100%;
+  border: 1px solid silver;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+.Fb_input::placeholder {
+  color: rgba(157, 157, 157, 0.432);
+}

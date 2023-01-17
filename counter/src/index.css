@@ -1,0 +1,12 @@
+.Count{
+  border: 2 solid black;
+  margin: 0 auto;
+text-align: center;
+background-color: blue;
+}
+.red{
+  background-color: red;
+}
+.gray{
+  background-color: gray;
+}

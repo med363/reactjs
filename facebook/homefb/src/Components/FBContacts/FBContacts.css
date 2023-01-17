@@ -1,0 +1,14 @@
+.contacts {
+  margin: 20px 0;
+  width: 100%;
+  overflow: hidden;
+}
+.contacts .header span {
+  font-size: 24px;
+  font-weight: bold;
+}
+.contacts .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

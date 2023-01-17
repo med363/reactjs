@@ -1,0 +1,14 @@
+.categories{
+    padding: 10px;
+    width: 300px;
+    display: flex;
+    background: white;
+    margin: 10px 10px 10px 0;
+    flex-direction: column;
+
+    border-radius: 5px;
+
+    box-shadow: 1px 0px 3px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 0px 3px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 0px 3px 0px rgba(0,0,0,0.75);
+}

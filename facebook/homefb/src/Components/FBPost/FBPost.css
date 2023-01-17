@@ -1,0 +1,45 @@
+.post {
+  margin: 20px auto;
+  background-color: white;
+  border-radius: 15px;
+  width: 96%;
+  padding: 10px;
+}
+
+.post .header {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+}
+
+.post .header img {
+  margin: 0 10px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.post .header input {
+  padding: 5px 20px;
+  width: calc(100% - 60px);
+  margin: 0 10px;
+  border-radius: 15px;
+  border: none;
+  background-color: rgba(226, 220, 220, 0.93);
+}
+.post .footer {
+  width: 100% !important;
+  padding: 20px 30px !important;
+  justify-content: space-between;
+}
+.post .footer,
+.post .footer div {
+  font-size: 22px !important;
+  display: flex;
+}
+
+.post .footer div {
+}
+.post .footer div h4 {
+  margin-left: 10px;
+}

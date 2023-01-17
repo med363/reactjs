@@ -1,0 +1,61 @@
+.signin_page{
+    padding: 20px;
+    width:100%;
+    text-align: center;
+    background-color: rgba(192, 192, 192 , .15);
+    
+}
+
+.signin_page .FBshadow{
+    padding:20px 25px;
+   border-radius: 10px;
+   background-color: #ffffff;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 30%; /* 150 , 200 , 200 , 200 , 1200  */
+    max-width: 400px;
+    box-shadow:0 0 4px 0.5px rgba(0,0,0, .3);
+    
+
+}
+
+.signin_page a{
+        color:#1877f2;
+        margin:10px 0;
+}
+
+.signin_page a:hover{
+    text-decoration:underline ;
+    cursor: pointer;
+    
+}
+
+.OrBlock{
+    margin:10px 0;
+}
+
+.OrBlock hr{
+    border:.5 solid rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    width:45%;
+    
+}
+.OrBlock span{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.5);
+    width:10%;
+    text-align: center;
+
+}
+
+.logo{
+    width: 30%; /* 150 , 200 , 200 , 200 , 1200  */
+    max-width: 250px;
+   
+
+}
+
+.FBshadow{
+
+}

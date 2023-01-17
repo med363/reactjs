@@ -1,0 +1,30 @@
+.fb_story {
+  width: 200px;
+  height: 300px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.story_image {
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+  height: 80%;
+  margin-bottom: 15px;
+}
+
+.story_image img {
+}
+.story_user_info {
+  padding: 0 5px;
+  display: flex;
+  align-items: center;
+}
+
+.story_user_info img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}

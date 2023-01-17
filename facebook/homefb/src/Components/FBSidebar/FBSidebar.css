@@ -1,0 +1,21 @@
+.fb_navigation {
+  background-color: white;
+  width: 25%;
+  padding: 35px;
+}
+
+.fb_navigation .item {
+  color: #1877f2;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 35px;
+  display: flex;
+  align-items: center;
+}
+
+
+
+.item .item_icon {
+  margin-right: 10px;
+  font-size: 20px;
+}

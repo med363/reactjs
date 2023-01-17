@@ -1,0 +1,31 @@
+.Fb_blue {
+  font-weight: bolder;
+  background-color: #1877f2;
+  color: #fff;
+  font-size: 16px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #1877f2;
+}
+
+.Fb_green {
+  font-weight: bolder;
+  background-color: #00a400;
+  color: #fff;
+  font-size: 16px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #00a400;
+}
+
+.large {
+  padding: 15px 30px;
+}
+.small {
+  margin: 10px 45px;
+  padding: 15px 10px;
+}
+.Link {
+  color: transparent;
+  text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.categoryCard{
+    width: 20%;
+    max-width: 150px;
+    overflow: hidden;
+}
+.categoryCard img{
+    width: 100%;
+}
+.categoryCard p{
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: #f8f9fc;
+}
+
+.app{
+    max-width: 1400px; /* taille max */
+    margin:0 auto; /* centrer app */
+}
+
+.bannerSection{
+    display: flex;
+}
+
+.Categories-cards{
+padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px 10px 10px 0;
+   
+
+    border-radius: 5px;
+
+    box-shadow: 1px 0px 3px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 1px 0px 3px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 0px 3px 0px rgba(0,0,0,0.75);
+}
